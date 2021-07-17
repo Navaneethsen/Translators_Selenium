@@ -1,0 +1,6 @@
+*.txt
+*.csv
+/shelf/
+/workspace.xml
+.idea/*
+*.log
